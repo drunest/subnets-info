@@ -19,7 +19,7 @@
         "owner_id": "956623328553099264",
         "maintainers_id": ["1214635532856987728", "956623328553000264", "1214617889559023746"],
         "name": "Omron",
-        "github": "https://github.com/inference-labs-inc/omron-subnet",
+        "github_repo": "https://github.com/inference-labs-inc/omron-subnet",
         "hw_requirements":"https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner",
         "description": "Omron subnet, building cryptographically verified efficient and intelligent capital networks."
     },
@@ -31,7 +31,7 @@
         "owner_id": "201741436117450752",
         "maintainers_id": [],
         "name": "Compute Horder",
-        "github": "https://github.com/backend-developers-ltd/ComputeHorde",
+        "github_repo": "https://github.com/backend-developers-ltd/ComputeHorde",
         "hw_requirements":"",
         "description": ""
     }
