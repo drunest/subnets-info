@@ -9,7 +9,6 @@
         "maintainers_id": ["208980979426131968", "234852730303283201", "386757032083980288"],
         "github_repo": "https://github.com/macrocosm-os/prompting",
         "hw_requirements":"https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
-        "image_url":"",
         "description": "This Subnet defines an incentive mechanism to create a distributed conversational AI."
     },
     "2": {
@@ -22,7 +21,6 @@
         "name": "Omron",
         "github": "https://github.com/inference-labs-inc/omron-subnet",
         "hw_requirements":"https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner",
-        "image_url":"",
         "description": "Omron subnet, building cryptographically verified efficient and intelligent capital networks."
     },
     "3": {
@@ -35,7 +33,6 @@
         "name": "Compute Horder",
         "github": "https://github.com/backend-developers-ltd/ComputeHorde",
         "hw_requirements":"",
-        "image_url":"",
         "description": ""
     }
 
