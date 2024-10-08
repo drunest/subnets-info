@@ -3,7 +3,7 @@ computehorde:
     testnet_netuid: 147
     hardware_description: 8GB RAM and good CPU with at least 4 cores but no GPU
     owner_discord_id: 36581436117450112
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - 201741436117450752
         - 1248297458627252297
     dumper_commands:
@@ -25,7 +25,7 @@ afterpartyai:
     github_repo: https://github.com/afterpartyai/bittensor-conversation-genome-project.git
     hardware_description: https://github.com/afterpartyai/bittensor-conversation-genome-project/blob/main/min_compute.yml
     mainnet_netuid: 33
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '538101635478454272'
         - '824415410606440468'
     owner_discord_id: '750809532334080060'
@@ -42,7 +42,7 @@ bettensor:
     github_repo: https://github.com/Bettensor/bettensor.git
     hardware_description: https://github.com/Bettensor/bettensor/blob/main/min_compute.yml
     mainnet_netuid: 30
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '883007335176478781'
         - '306470153657516033'
         - '691707086492532767'
@@ -57,7 +57,7 @@ bitadsai:
     github_repo: https://github.com/eseckft/BitAds.ai.git
     hardware_description: https://github.com/eseckft/BitAds.ai/blob/main/min_compute.yml
     mainnet_netuid: 16
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '717761720243978340'
     owner_discord_id: '237312929106624513'
     owner_nick: '@eseck'
@@ -70,7 +70,7 @@ bitagent:
     github_repo: https://github.com/RogueTensor/bitagent_subnet.git
     hardware_description: https://github.com/RogueTensor/bitagent_subnet/blob/main/min_compute.yml
     mainnet_netuid: 20
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '338456975920857088'
         - '1166194122302963752'
         - '894751296429649980'
@@ -86,7 +86,7 @@ bitmind:
     github_repo: https://github.com/BitMind-AI/bitmind-subnet.git
     hardware_description: https://github.com/BitMind-AI/bitmind-subnet/blob/main/min_compute.yml
     mainnet_netuid: 34
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '276162484086505474'
         - '1255586548603293806'
         - '254709863026786304'
@@ -102,7 +102,7 @@ chunking:
     github_repo: https://github.com/VectorChat/chunking_subnet.git
     hardware_description: https://github.com/VectorChat/chunking_subnet/blob/main/min_compute.yml
     mainnet_netuid: 40
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '1243727287082422374'
         - '1243720304816029696'
     owner_discord_id: '1243720304816029696'
@@ -116,7 +116,7 @@ coldint:
     github_repo: https://github.com/coldint/coldint_validator.git
     hardware_description: https://github.com/coldint/coldint_validator/blob/main/min_compute.yml
     mainnet_netuid: 29
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '1026390666604974111'
         - '1219180637039231037'
     owner_discord_id: '1219180637039231037'
@@ -131,7 +131,7 @@ computesubnet:
     github_repo: https://github.com/neuralinternet/compute-subnet.git
     hardware_description: https://github.com/neuralinternet/compute-subnet/blob/main/requirements.txt
     mainnet_netuid: 27
-    maintaner_discord_ids:
+    maintainer_discord_ids:
       - '1265680338223501322'
     owner_discord_id: '1265680338223501322'
     owner_nick: '@neurohash_'
@@ -152,7 +152,7 @@ cortext:
     github_repo: https://github.com/Datura-ai/cortex.t.git
     hardware_description: https://github.com/corcel-api/cortex.t/blob/main/min_compute.yml
     mainnet_netuid: 18
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '1197181539851714662'
     owner_discord_id: '1197181539851714662'
     owner_nick: '@p383_54249'
@@ -171,7 +171,7 @@ datauniverse:
     github_repo: https://github.com/macrocosm-os/data-universe.git
     hardware_description: https://github.com/macrocosm-os/data-universe/blob/main/docs/miner.md#system-requirements
     mainnet_netuid: 13
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '655800918285221895'
     - '1178488129821351941'
     owner_discord_id: '1037429727272652902'
@@ -191,7 +191,7 @@ devalcore:
     github_repo: https://github.com/deval-core/De-Val.git
     hardware_description: https://github.com/deval-core/De-Val/blob/main/min_compute.yml
     mainnet_netuid: 15
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '994687779747405000'
     owner_discord_id: '455093165225934888'
     owner_nick: '@aphex5'
@@ -205,7 +205,7 @@ dippybittensor:
     github_repo: https://github.com/impel-intelligence/dippy-bittensor-subnet.git
     hardware_description: https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml
     mainnet_netuid: 11
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '756868456711979000'
     owner_discord_id: '334847154994675712'
     owner_nick: '@775.bio'
@@ -220,7 +220,7 @@ edgeoptimization:
     github_repo: https://github.com/womboai/edge-maxxing.git
     hardware_description: https://github.com/womboai/edge-maxxing/blob/main/min_compute.yml
     mainnet_netuid: 39
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '381887137362083841'
         - '695865256349663296'
     owner_discord_id: '381887137362083841'
@@ -235,7 +235,7 @@ finetuning:
     github_repo: https://github.com/macrocosm-os/finetuning.git
     hardware_description: https://github.com/macrocosm-os/finetuning/blob/main/min_compute.yml
     mainnet_netuid: 37
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '1178488129821351941'
     owner_discord_id: '1178488129821351941'
     owner_nick: '@sid_data_universe'
@@ -249,7 +249,7 @@ graphite:
     github_repo: https://github.com/GraphiteAI/Graphite-Subnet.git
     hardware_description: https://github.com/GraphiteAI/Graphite-Subnet/blob/main/min_compute.yml
     mainnet_netuid: 43
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '630372852901871636'
     owner_discord_id: '630372852901871636'
     owner_nick: '@sherwin.graphite'
@@ -264,7 +264,7 @@ imagealchemy:
     github_repo: https://github.com/TensorAlchemy/TensorAlchemy.git
     hardware_description: https://docs.google.com/document/d/1FzZe5EskEV0Q6BkOuVkqCrIEexzQZd_134eT74B7hPA/edit
     mainnet_netuid: 26
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '1164418129435299910'
     owner_discord_id: '1157221919683260448'
     owner_nick: '@emperorwang_33584'
@@ -278,7 +278,7 @@ infinitegames:
     github_repo: https://github.com/amedeo-gigaver/infinite_games.git
     hardware_description: https://github.com/amedeo-gigaver/infinite_games/blob/main/min_compute.yml
     mainnet_netuid: 6
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '1210731177837727866'
     owner_discord_id: '1210731177837727866'
     owner_nick: '@amedeo_gigaver'
@@ -291,7 +291,7 @@ itsai:
     github_repo: https://github.com/It-s-AI/llm-detection.git
     hardware_description: https://github.com/It-s-AI/llm-detection/blob/main/min_compute.yml
     mainnet_netuid: 32
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '759365694956765184'
     owner_discord_id: '759365694956765184'
     owner_nick: '@sergak0'
@@ -306,7 +306,7 @@ kmfoda:
     github_repo: https://github.com/KMFODA/DistributedTraining
     hardware_description: https://github.com/KMFODA/DistributedTraining/blob/main/min.compute.yml
     mainnet_netuid: 38
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '663764957573283851'
     owner_discord_id: '1188603723178578021'
     owner_nick: '@prajl_s'
@@ -319,7 +319,7 @@ logicnet:
     github_repo: https://github.com/LogicNet-Subnet/LogicNet.git
     hardware_description: https://github.com/LogicNet-Subnet/LogicNet-prodblob/main/min_compute.yml
     mainnet_netuid: 35
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '244716141577109504'
         - '717761720243978340'
     owner_discord_id: '717761720243978340'
@@ -334,7 +334,7 @@ macrocosmo:
     github_repo: https://github.com/macrocosm-os/folding.git
     hardware_description: https://github.com/macrocosm-os/folding/blob/main/min_compute.yml
     mainnet_netuid: 25
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '1157221919683260448'
     owner_discord_id: '383896639644893184'
     owner_nick: '@booty_szy'
@@ -348,7 +348,7 @@ macrocosmos:
     github_repo: https://github.com/macrocosm-os/prompting.git
     hardware_description: https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml
     mainnet_netuid: 1
-    maintaner_discord_ids:
+    maintainer_discord_ids:
             - '208980979426131968'
             - '234852730303283201'
             - '386757032083980288'
@@ -364,7 +364,7 @@ masa:
     github_repo: https://github.com/masa-finance/masa-bittensor.git
     hardware_description: https://github.com/masa-finance/masa-bittensor/blob/main/requirements.txt
     mainnet_netuid: 42
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '165516738836955136'
         - '186392364477186048'
     owner_discord_id: '338456975920857088'
@@ -378,7 +378,7 @@ myshelltts:
     github_repo: https://github.com/myshell-ai/MyShell-TTS-Subnet.git
     hardware_description: https://github.com/myshell-ai/MyShell-TTS-Subnet/blob/main/MeloTTS/requirements.txt
     mainnet_netuid: 3
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '1193792780946903093'
         - '828285386656579585'
         - '1119351401919828103'
@@ -394,7 +394,7 @@ naschain:
     github_repo: https://github.com/neuronlogic/NASChain.git
     hardware_description: https://github.com/neuronlogic/NASChain/blob/main/min_compute.yml
     mainnet_netuid: 31
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '961038815286394910'
     owner_discord_id: '389249010608766979'
     owner_nick: '@mutex.lock'
@@ -407,7 +407,7 @@ nicheimage:
     github_repo: https://github.com/SocialTensor/SocialTensorSubnet.git
     hardware_description: https://docs.taostats.io/docs/subnet-23-niche-image#setup-instructions-for-miners
     mainnet_netuid: 23
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '532665326639513638'
     - '580786752625705020'
     owner_discord_id: '532665326639513638'
@@ -422,7 +422,7 @@ omega:
     github_repo: https://github.com/omegalabsinc/omegalabs-anytoany-bittensor.git
     hardware_description: https://github.com/omegalabsinc/omegalabs-anytoany-bittensor/blob/main/requirements.txt
     mainnet_netuid: 21
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '575570134190522379'
     - '190504915922190336'
     - '398975111039811585'
@@ -438,7 +438,7 @@ omegalabs:
     github_repo: https://github.com/omegalabsinc/omegalabs-bittensor-subnet.git
     hardware_description: https://github.com/omegalabsinc/omegalabs-bittensor-subnet/blob/main/min_compute.yml
     mainnet_netuid: 24
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '548864544064143390'
     - '398975111039811585'
     owner_discord_id: '398975111039811585'
@@ -452,7 +452,7 @@ omron:
     github_repo: https://github.com/inference-labs-inc/omron-subnet.git
     hardware_description: https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner
     mainnet_netuid: 2
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '1214635532856987728'
         - '956623328553099264'
         - '1214617889559023746'
@@ -470,7 +470,7 @@ openkaito:
     github_repo: https://github.com/OpenKaito/openkaito.git
     hardware_description: https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml
     mainnet_netuid: 5
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '567997325268615000'
     owner_discord_id: '567997325268615168'
     owner_nick: '@hhan_26'
@@ -487,7 +487,7 @@ palaidn:
     github_repo: https://github.com/palaidn/palaidn_subnet.git
     hardware_description: https://github.com/palaidn/palaidn_subnet/blob/main/requirements.txt
     mainnet_netuid: 14
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '800487542574284820'
         - '795589285268684800'
         - '1266752310764114005'
@@ -503,7 +503,7 @@ pretraining:
     github_repo: https://github.com/macrocosm-os/pretraining.git
     hardware_description: https://github.com/macrocosm-os/pretraining/blob/main/min_compute.yml
     mainnet_netuid: 9
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '831898688594640936'
         - '1178488129821351941'
         - '1176704723466854500'
@@ -518,7 +518,7 @@ proprietarytradingnetwork:
     github_repo: https://github.com/taoshidev/proprietary-trading-network.git
     hardware_description: https://github.com/taoshidev/proprietary-trading-network/blob/main/docs/validator.md
     mainnet_netuid: 8
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '1213628245329846386'
         - '1070067978474901655'
     owner_discord_id: '1213628245329846386'
@@ -533,7 +533,7 @@ safescan:
     github_repo: https://github.com/safe-scan-ai/cancer-ai.git
     hardware_description: ''
     mainnet_netuid: 46
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - OUTsaidgoodbye
     owner_discord_id: N/A
     owner_nick: N/A
@@ -549,7 +549,7 @@ scorepredict:
     github_repo: https://github.com/score-protocol/score-predict.git
     hardware_description: https://github.com/score-protocol/score-predict/blob/main/min_compute.yml
     mainnet_netuid: 44
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '292403771135361045'
     - '743017425745739826'
     owner_discord_id: '743017425745739826'
@@ -567,7 +567,7 @@ smartscrape:
     github_repo: https://github.com/Datura-ai/smart-scrape.git
     hardware_description: https://github.com/Datura-ai/smart-scrape/blob/main/min_compute.yml
     mainnet_netuid: 22
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '807018168023384084'
     owner_discord_id: '807018168023384084'
     owner_nick: '@cosmicquantum'
@@ -582,7 +582,7 @@ snporacle:
     github_repo: https://github.com/foundryservices/snpOracle.git
     hardware_description: https://docs.taostats.io/docs/subnet-28-sp-500-oracle#compute-requirements
     mainnet_netuid: 28
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '1214645427194826803'
     owner_discord_id: '413670858108960778'
     owner_nick: '@rahulkumaran'
@@ -596,7 +596,7 @@ sportstensor:
     github_repo: https://github.com/xzistance/sportstensor.git
     hardware_description: https://github.com/xzistance/sportstensor/blob/main/min_compute.yml
     mainnet_netuid: 41
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '398975111039811585'
     owner_discord_id: '1045103664748052490'
     owner_nick: '@lucianvannacht'
@@ -609,7 +609,7 @@ sturdy:
     github_repo: https://github.com/Sturdy-Subnet/sturdy-subnet.git
     hardware_description: https://github.com/Sturdy-Subnet/sturdy-subnet/blob/main/min_compute.yml
     mainnet_netuid: 10
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '230894955688624128'
     - '774428716792545313'
     owner_discord_id: '774428716792545313'
@@ -624,7 +624,7 @@ subvortex:
     github_repo: https://github.com/eclipsevortex/SubVortex.git
     hardware_description: https://github.com/eclipsevortex/SubVortex/blob/main/min_compute.yml
     mainnet_netuid: 7
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '961038815286394910'
         - '983286946619064320'
     owner_discord_id: '983286946619064320'
@@ -638,7 +638,7 @@ targon:
     github_repo: https://github.com/manifold-inc/targon.git
     hardware_description: https://github.com/manifold-inc/targon#compute-requirements
     mainnet_netuid: 4
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '211001963557421056'
     - '135226942906433536'
     owner_discord_id: '135226942906433536'
@@ -654,7 +654,7 @@ tbc:
     github_repo: https://github.com/brokespace/code.git
     hardware_description: https://github.com/brokespace/code/blob/main/min_compute.yml
     mainnet_netuid: 45
-    maintaner_discord_ids:
+    maintainer_discord_ids:
     - '338456975920857088'
     owner_discord_id: '1189700547159277708'
     owner_nick: '@roguetensor '
@@ -667,7 +667,7 @@ threegen:
     github_repo: https://github.com/404-Repo/three-gen-subnet.git
     hardware_description: https://github.com/404-Repo/three-gen-subnet?tab=readme-ov-file#hardware-requirements
     mainnet_netuid: 17
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '964576823650422866'
         - '486935511165042733'
     owner_discord_id: '964576823650422866'
@@ -682,7 +682,7 @@ vision:
     github_repo: https://github.com/namoray/vision.git
     hardware_description: https://docs.taostats.io/docs/subnet-19-vision#Requirements
     mainnet_netuid: 19
-    maintaner_discord_ids:
+    maintainer_discord_ids:
         - '1158481828726968320'
     owner_discord_id: '1158481828726968320'
     owner_nick: '@namoray'
