@@ -1,0 +1,690 @@
+computehorde:
+    mainnet_netuid: 12
+    testnet_netuid: 147
+    hardware_description: 8GB RAM and good CPU with at least 4 cores but no GPU
+    owner_discord_id: 36581436117450112
+    maintaner_discord_ids:
+        - 201741436117450752
+        - 1248297458627252297
+    dumper_commands:
+        - ps awux
+        - docker ps
+        - uptime
+        - free -m
+    allowed_secrets:
+        - COMPUTEHORDE_TRUSTED_MINER_ADDRESS
+        - COMPUTEHORDE_WEB_ADMIN_PASSWORD
+        - SECRET_KEY
+        - POSTGRES_PASSWORD
+afterpartyai:
+    allowed_secrets:
+        - OPENAI_API_KEY
+        - BET365_API_KEY
+    bittensor_id: sn33
+    dumper_commands:
+    github_repo: https://github.com/afterpartyai/bittensor-conversation-genome-project.git
+    hardware_description: https://github.com/afterpartyai/bittensor-conversation-genome-project/blob/main/min_compute.yml
+    mainnet_netuid: 33
+    maintaner_discord_ids:
+        - '538101635478454272'
+        - '824415410606440468'
+    owner_discord_id: '750809532334080060'
+    owner_nick: '@davfields'
+    testnet_netuid: 138
+    twitter: ''
+bettensor:
+    allowed_secrets:
+        - RAPID_API_KEY
+        - WANDB_API_KEY
+        - BETTENSOR_VALIDATOR_MIN_STAKE
+    bittensor_id: sn30
+    dumper_commands:
+    github_repo: https://github.com/Bettensor/bettensor.git
+    hardware_description: https://github.com/Bettensor/bettensor/blob/main/min_compute.yml
+    mainnet_netuid: 30
+    maintaner_discord_ids:
+        - '883007335176478781'
+        - '306470153657516033'
+        - '691707086492532767'
+    owner_discord_id: '883007335176478781'
+    owner_nick: '@geardici8143'
+    testnet_netuid: 181
+    twitter: ''
+bitadsai:
+    allowed_secrets:
+    bittensor_id: sn16
+    dumper_commands:
+    github_repo: https://github.com/eseckft/BitAds.ai.git
+    hardware_description: https://github.com/eseckft/BitAds.ai/blob/main/min_compute.yml
+    mainnet_netuid: 16
+    maintaner_discord_ids:
+        - '717761720243978340'
+    owner_discord_id: '237312929106624513'
+    owner_nick: '@eseck'
+    testnet_netuid: 120
+    twitter: ''
+bitagent:
+    allowed_secrets:
+    bittensor_id: sn20
+    dumper_commands:
+    github_repo: https://github.com/RogueTensor/bitagent_subnet.git
+    hardware_description: https://github.com/RogueTensor/bitagent_subnet/blob/main/min_compute.yml
+    mainnet_netuid: 20
+    maintaner_discord_ids:
+        - '338456975920857088'
+        - '1166194122302963752'
+        - '894751296429649980'
+        - '347901080295702529'
+    owner_discord_id: '1189700547159277708'
+    owner_nick: '@roguetensor'
+    testnet_netuid: 76
+    twitter: ''
+bitmind:
+    allowed_secrets:
+    bittensor_id: sn34
+    dumper_commands:
+    github_repo: https://github.com/BitMind-AI/bitmind-subnet.git
+    hardware_description: https://github.com/BitMind-AI/bitmind-subnet/blob/main/min_compute.yml
+    mainnet_netuid: 34
+    maintaner_discord_ids:
+        - '276162484086505474'
+        - '1255586548603293806'
+        - '254709863026786304'
+    owner_discord_id: '473634651995635722'
+    owner_nick: '@kenobijon'
+    testnet_netuid: 168
+    twitter: ''
+chunking:
+    allowed_secrets:
+        - OPENAI_API_KEY
+    bittensor_id: sn40
+    dumper_commands:
+    github_repo: https://github.com/VectorChat/chunking_subnet.git
+    hardware_description: https://github.com/VectorChat/chunking_subnet/blob/main/min_compute.yml
+    mainnet_netuid: 40
+    maintaner_discord_ids:
+        - '1243727287082422374'
+        - '1243720304816029696'
+    owner_discord_id: '1243720304816029696'
+    owner_nick: '@vcai_tiger'
+    testnet_netuid: 166
+    twitter: ''
+coldint:
+    allowed_secrets:
+    bittensor_id: sn29
+    dumper_commands:
+    github_repo: https://github.com/coldint/coldint_validator.git
+    hardware_description: https://github.com/coldint/coldint_validator/blob/main/min_compute.yml
+    mainnet_netuid: 29
+    maintaner_discord_ids:
+        - '1026390666604974111'
+        - '1219180637039231037'
+    owner_discord_id: '1219180637039231037'
+    owner_nick: '@mvds1'
+    testnet_netuid: null
+    twitter: ''
+computesubnet:
+    allowed_secrets:
+      - WANDB_API_KEY
+    bittensor_id: sn27
+    dumper_commands:
+    github_repo: https://github.com/neuralinternet/compute-subnet.git
+    hardware_description: https://github.com/neuralinternet/compute-subnet/blob/main/requirements.txt
+    mainnet_netuid: 27
+    maintaner_discord_ids:
+      - '1265680338223501322'
+    owner_discord_id: '1265680338223501322'
+    owner_nick: '@neurohash_'
+    testnet_netuid: 15
+    twitter: ''
+cortext:
+    allowed_secrets:
+        - WANDB_API_KEY
+        - OPENAI_API_KEY
+        - PIXABAY_API_KEY
+        - GOOGLE_API_KEY
+        - ANTHROPIC_API_KEY
+        - GROQ_API_KEY
+        - AWS_ACCESS_KEY
+        - AWS_SECRET_KEY
+    bittensor_id: sn18
+    dumper_commands:
+    github_repo: https://github.com/Datura-ai/cortex.t.git
+    hardware_description: https://github.com/corcel-api/cortex.t/blob/main/min_compute.yml
+    mainnet_netuid: 18
+    maintaner_discord_ids:
+    - '1197181539851714662'
+    owner_discord_id: '1197181539851714662'
+    owner_nick: '@p383_54249'
+    testnet_netuid: 24
+    twitter: ''
+datauniverse:
+    allowed_secrets:
+        - DATABASE_USER_PASSWORD
+        - APIFY_APi_TOKEN
+        - REDDIT_CLIENT_ID
+        - REDDIT_CLIENT_SECRET
+        - REDDIT_USERNAME
+        - REDDIT_PASSWORD
+    bittensor_id: sn13
+    dumper_commands:
+    github_repo: https://github.com/macrocosm-os/data-universe.git
+    hardware_description: https://github.com/macrocosm-os/data-universe/blob/main/docs/miner.md#system-requirements
+    mainnet_netuid: 13
+    maintaner_discord_ids:
+    - '655800918285221895'
+    - '1178488129821351941'
+    owner_discord_id: '1037429727272652902'
+    owner_nick: '@arrmlet'
+    testnet_netuid: null
+    twitter: ''
+devalcore:
+    allowed_secrets:
+        - WANDB_API_KEY
+        - OPENAI_API_KEY
+        - AWS_ACCESS_KEY_ID
+        - AWS_SECRET_ACCESS_KEY
+        - ANTHROPIC_API_KEY
+        - MISTRAL_API_KEY
+    bittensor_id: sn15
+    dumper_commands:
+    github_repo: https://github.com/deval-core/De-Val.git
+    hardware_description: https://github.com/deval-core/De-Val/blob/main/min_compute.yml
+    mainnet_netuid: 15
+    maintaner_discord_ids:
+        - '994687779747405000'
+    owner_discord_id: '455093165225934888'
+    owner_nick: '@aphex5'
+    testnet_netuid: 202
+    twitter: ''
+dippybittensor:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: sn11
+    dumper_commands:
+    github_repo: https://github.com/impel-intelligence/dippy-bittensor-subnet.git
+    hardware_description: https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml
+    mainnet_netuid: 11
+    maintaner_discord_ids:
+        - '756868456711979000'
+    owner_discord_id: '334847154994675712'
+    owner_nick: '@775.bio'
+    testnet_netuid: 135
+    twitter: ''
+edgeoptimization:
+    allowed_secrets:
+        - WANDB_API_KEY
+        - VALIDATOR_HOTKEY_SS58_ADDRESS
+    bittensor_id: sn39
+    dumper_commands:
+    github_repo: https://github.com/womboai/edge-maxxing.git
+    hardware_description: https://github.com/womboai/edge-maxxing/blob/main/min_compute.yml
+    mainnet_netuid: 39
+    maintaner_discord_ids:
+        - '381887137362083841'
+        - '695865256349663296'
+    owner_discord_id: '381887137362083841'
+    owner_nick: '@lahat'
+    testnet_netuid: 159
+    twitter: ''
+finetuning:
+    allowed_secrets:
+        - WANDB_ACCESS_TOKEN
+    bittensor_id: sn37
+    dumper_commands:
+    github_repo: https://github.com/macrocosm-os/finetuning.git
+    hardware_description: https://github.com/macrocosm-os/finetuning/blob/main/min_compute.yml
+    mainnet_netuid: 37
+    maintaner_discord_ids:
+    - '1178488129821351941'
+    owner_discord_id: '1178488129821351941'
+    owner_nick: '@sid_data_universe'
+    testnet_netuid: null
+    twitter: ''
+graphite:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: sn43
+    dumper_commands:
+    github_repo: https://github.com/GraphiteAI/Graphite-Subnet.git
+    hardware_description: https://github.com/GraphiteAI/Graphite-Subnet/blob/main/min_compute.yml
+    mainnet_netuid: 43
+    maintaner_discord_ids:
+    - '630372852901871636'
+    owner_discord_id: '630372852901871636'
+    owner_nick: '@sherwin.graphite'
+    testnet_netuid: 65
+    twitter: ''
+imagealchemy:
+    allowed_secrets:
+        - WANDB_API_KEY
+        - OPENAI_API_KEY
+    bittensor_id: sn26
+    dumper_commands:
+    github_repo: https://github.com/TensorAlchemy/TensorAlchemy.git
+    hardware_description: https://docs.google.com/document/d/1FzZe5EskEV0Q6BkOuVkqCrIEexzQZd_134eT74B7hPA/edit
+    mainnet_netuid: 26
+    maintaner_discord_ids:
+    - '1164418129435299910'
+    owner_discord_id: '1157221919683260448'
+    owner_nick: '@emperorwang_33584'
+    testnet_netuid: 25
+    twitter: ''
+infinitegames:
+    allowed_secrets:
+        - WANDB_ACCESS_TOKEN
+    bittensor_id: sn6
+    dumper_commands:
+    github_repo: https://github.com/amedeo-gigaver/infinite_games.git
+    hardware_description: https://github.com/amedeo-gigaver/infinite_games/blob/main/min_compute.yml
+    mainnet_netuid: 6
+    maintaner_discord_ids:
+    - '1210731177837727866'
+    owner_discord_id: '1210731177837727866'
+    owner_nick: '@amedeo_gigaver'
+    testnet_netuid: 155
+    twitter: ''
+itsai:
+    allowed_secrets:
+    bittensor_id: sn32
+    dumper_commands:
+    github_repo: https://github.com/It-s-AI/llm-detection.git
+    hardware_description: https://github.com/It-s-AI/llm-detection/blob/main/min_compute.yml
+    mainnet_netuid: 32
+    maintaner_discord_ids:
+    - '759365694956765184'
+    owner_discord_id: '759365694956765184'
+    owner_nick: '@sergak0'
+    testnet_netuid: 87
+    twitter: ''
+kmfoda:
+    allowed_secrets:
+        - WANDB_API_KEY
+        - DHT_IP
+    bittensor_id: sn38
+    dumper_commands:
+    github_repo: https://github.com/KMFODA/DistributedTraining
+    hardware_description: https://github.com/KMFODA/DistributedTraining/blob/main/min.compute.yml
+    mainnet_netuid: 38
+    maintaner_discord_ids:
+    - '663764957573283851'
+    owner_discord_id: '1188603723178578021'
+    owner_nick: '@prajl_s'
+    testnet_netuid: 77
+    twitter: ''
+logicnet:
+    allowed_secrets:
+    bittensor_id: sn35
+    dumper_commands:
+    github_repo: https://github.com/LogicNet-Subnet/LogicNet.git
+    hardware_description: https://github.com/LogicNet-Subnet/LogicNet-prodblob/main/min_compute.yml
+    mainnet_netuid: 35
+    maintaner_discord_ids:
+        - '244716141577109504'
+        - '717761720243978340'
+    owner_discord_id: '717761720243978340'
+    owner_nick: '@robinovski'
+    testnet_netuid: 78
+    twitter: ''
+macrocosmo:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: sn25
+    dumper_commands:
+    github_repo: https://github.com/macrocosm-os/folding.git
+    hardware_description: https://github.com/macrocosm-os/folding/blob/main/min_compute.yml
+    mainnet_netuid: 25
+    maintaner_discord_ids:
+        - '1157221919683260448'
+    owner_discord_id: '383896639644893184'
+    owner_nick: '@booty_szy'
+    testnet_netuid: 141
+    twitter: ''
+macrocosmos:
+    allowed_secrets:
+        - HF_TOKEN
+    bittensor_id: sn1
+    dumper_commands:
+    github_repo: https://github.com/macrocosm-os/prompting.git
+    hardware_description: https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml
+    mainnet_netuid: 1
+    maintaner_discord_ids:
+            - '208980979426131968'
+            - '234852730303283201'
+            - '386757032083980288'
+    owner_discord_id: '335534243843145729'
+    owner_nick: '@qriosity3000'
+    testnet_netuid: 102
+    twitter: ''
+masa:
+    allowed_secrets:
+        - GITHUB_TOKEN
+    bittensor_id: sn42
+    dumper_commands:
+    github_repo: https://github.com/masa-finance/masa-bittensor.git
+    hardware_description: https://github.com/masa-finance/masa-bittensor/blob/main/requirements.txt
+    mainnet_netuid: 42
+    maintaner_discord_ids:
+        - '165516738836955136'
+        - '186392364477186048'
+    owner_discord_id: '338456975920857088'
+    owner_nick: '@brokespace'
+    testnet_netuid: 165
+    twitter: ''
+myshelltts:
+    allowed_secrets:
+    bittensor_id: sn3
+    dumper_commands:
+    github_repo: https://github.com/myshell-ai/MyShell-TTS-Subnet.git
+    hardware_description: https://github.com/myshell-ai/MyShell-TTS-Subnet/blob/main/MeloTTS/requirements.txt
+    mainnet_netuid: 3
+    maintaner_discord_ids:
+        - '1193792780946903093'
+        - '828285386656579585'
+        - '1119351401919828103'
+    owner_discord_id: '915420903561625600'
+    owner_nick: '@0x0tc'
+    testnet_netuid: null
+    twitter: ''
+naschain:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: sn31
+    dumper_commands:
+    github_repo: https://github.com/neuronlogic/NASChain.git
+    hardware_description: https://github.com/neuronlogic/NASChain/blob/main/min_compute.yml
+    mainnet_netuid: 31
+    maintaner_discord_ids:
+        - '961038815286394910'
+    owner_discord_id: '389249010608766979'
+    owner_nick: '@mutex.lock'
+    testnet_netuid: 123
+    twitter: ''
+nicheimage:
+    allowed_secrets:
+    bittensor_id: sn23
+    dumper_commands:
+    github_repo: https://github.com/SocialTensor/SocialTensorSubnet.git
+    hardware_description: https://docs.taostats.io/docs/subnet-23-niche-image#setup-instructions-for-miners
+    mainnet_netuid: 23
+    maintaner_discord_ids:
+    - '532665326639513638'
+    - '580786752625705020'
+    owner_discord_id: '532665326639513638'
+    owner_nick: '@somemspworker'
+    testnet_netuid: 119
+    twitter: ''
+omega:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: sn21
+    dumper_commands:
+    github_repo: https://github.com/omegalabsinc/omegalabs-anytoany-bittensor.git
+    hardware_description: https://github.com/omegalabsinc/omegalabs-anytoany-bittensor/blob/main/requirements.txt
+    mainnet_netuid: 21
+    maintaner_discord_ids:
+    - '575570134190522379'
+    - '190504915922190336'
+    - '398975111039811585'
+    owner_discord_id: '575570134190522379'
+    owner_nick: '@parshantdeep'
+    testnet_netuid: 157
+    twitter: ''
+omegalabs:
+    allowed_secrets:
+    bittensor_id: sn24
+        - WANDB_API_KEY
+    dumper_commands:
+    github_repo: https://github.com/omegalabsinc/omegalabs-bittensor-subnet.git
+    hardware_description: https://github.com/omegalabsinc/omegalabs-bittensor-subnet/blob/main/min_compute.yml
+    mainnet_netuid: 24
+    maintaner_discord_ids:
+    - '548864544064143390'
+    - '398975111039811585'
+    owner_discord_id: '398975111039811585'
+    owner_nick: '@xzistance'
+    testnet_netuid: 96
+    twitter: ''
+omron:
+    allowed_secrets:
+    bittensor_id: sn2
+    dumper_commands:
+    github_repo: https://github.com/inference-labs-inc/omron-subnet.git
+    hardware_description: https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner
+    mainnet_netuid: 2
+    maintaner_discord_ids:
+        - '1214635532856987728'
+        - '956623328553099264'
+        - '1214617889559023746'
+    owner_discord_id: '956623328553099264'
+    owner_nick: '@wencoffee'
+    testnet_netuid: 118
+    twitter: ''
+openkaito:
+    allowed_secrets:
+        - APIFY_API_KEY
+        - WANDB_API_KEY
+        - OPENAI_API_KEY
+    bittensor_id: sn5
+    dumper_commands:
+    github_repo: https://github.com/OpenKaito/openkaito.git
+    hardware_description: https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml
+    mainnet_netuid: 5
+    maintaner_discord_ids:
+        - '567997325268615000'
+    owner_discord_id: '567997325268615168'
+    owner_nick: '@hhan_26'
+    testnet_netuid: 88
+    twitter: ''
+palaidn:
+    allowed_secrets:
+        - ALCHEMY_API_KEY
+        - PAYPANGEA_API_KEY
+        - VLLM_API_KEY
+        - WANDB_KEY
+    bittensor_id: sn14
+    dumper_commands:
+    github_repo: https://github.com/palaidn/palaidn_subnet.git
+    hardware_description: https://github.com/palaidn/palaidn_subnet/blob/main/requirements.txt
+    mainnet_netuid: 14
+    maintaner_discord_ids:
+        - '800487542574284820'
+        - '795589285268684800'
+        - '1266752310764114005'
+    owner_discord_id: '857597945452429312'
+    owner_nick: '@m4k1_kun'
+    testnet_netuid: 38
+    twitter: ''
+pretraining:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: sn9
+    dumper_commands:
+    github_repo: https://github.com/macrocosm-os/pretraining.git
+    hardware_description: https://github.com/macrocosm-os/pretraining/blob/main/min_compute.yml
+    mainnet_netuid: 9
+    maintaner_discord_ids:
+        - '831898688594640936'
+        - '1178488129821351941'
+        - '1176704723466854500'
+    owner_discord_id: '655800918285221895'
+    owner_nick: '@_wctsq'
+    testnet_netuid: 116
+    twitter: ''
+proprietarytradingnetwork:
+    allowed_secrets:
+    bittensor_id: sn8
+    dumper_commands:
+    github_repo: https://github.com/taoshidev/proprietary-trading-network.git
+    hardware_description: https://github.com/taoshidev/proprietary-trading-network/blob/main/docs/validator.md
+    mainnet_netuid: 8
+    maintaner_discord_ids:
+        - '1213628245329846386'
+        - '1070067978474901655'
+    owner_discord_id: '1213628245329846386'
+    owner_nick: '@tdougherty_taoshi_95880'
+    testnet_netuid: 3
+    twitter: ''
+safescan:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: ''
+    dumper_commands:
+    github_repo: https://github.com/safe-scan-ai/cancer-ai.git
+    hardware_description: ''
+    mainnet_netuid: 46
+    maintaner_discord_ids:
+    - OUTsaidgoodbye
+    owner_discord_id: N/A
+    owner_nick: N/A
+    testnet_netuid: null
+    twitter: ''
+scorepredict:
+    allowed_secrets:
+        - OPENAI_API_KEY
+        - WANDB_API_KEY
+        - FOOTBALL_API_KEY
+    bittensor_id: sn44
+    dumper_commands:
+    github_repo: https://github.com/score-protocol/score-predict.git
+    hardware_description: https://github.com/score-protocol/score-predict/blob/main/min_compute.yml
+    mainnet_netuid: 44
+    maintaner_discord_ids:
+    - '292403771135361045'
+    - '743017425745739826'
+    owner_discord_id: '743017425745739826'
+    owner_nick: '@iamseneca'
+    testnet_netuid: 180
+    twitter: ''
+smartscrape:
+    allowed_secrets:
+        - OPENAI_API_KEY
+        - WANDB_API_KEY
+        - EXPECTED_ACCESS_KEY
+        - APIFY_API_KEY
+    bittensor_id: sn22
+    dumper_commands:
+    github_repo: https://github.com/Datura-ai/smart-scrape.git
+    hardware_description: https://github.com/Datura-ai/smart-scrape/blob/main/min_compute.yml
+    mainnet_netuid: 22
+    maintaner_discord_ids:
+    - '807018168023384084'
+    owner_discord_id: '807018168023384084'
+    owner_nick: '@cosmicquantum'
+    testnet_netuid: null
+    twitter: ''
+snporacle:
+    allowed_secrets:
+        - WANDB_API_KEY
+        - HF_ACCESS_TOKEN
+    bittensor_id: sn28
+    dumper_commands:
+    github_repo: https://github.com/foundryservices/snpOracle.git
+    hardware_description: https://docs.taostats.io/docs/subnet-28-sp-500-oracle#compute-requirements
+    mainnet_netuid: 28
+    maintaner_discord_ids:
+        - '1214645427194826803'
+    owner_discord_id: '413670858108960778'
+    owner_nick: '@rahulkumaran'
+    testnet_netuid: 93
+    twitter: ''
+sportstensor:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: sn41
+    dumper_commands:
+    github_repo: https://github.com/xzistance/sportstensor.git
+    hardware_description: https://github.com/xzistance/sportstensor/blob/main/min_compute.yml
+    mainnet_netuid: 41
+    maintaner_discord_ids:
+    - '398975111039811585'
+    owner_discord_id: '1045103664748052490'
+    owner_nick: '@lucianvannacht'
+    testnet_netuid: 172
+    twitter: ''
+sturdy:
+    allowed_secrets:
+    bittensor_id: sn10
+    dumper_commands:
+    github_repo: https://github.com/Sturdy-Subnet/sturdy-subnet.git
+    hardware_description: https://github.com/Sturdy-Subnet/sturdy-subnet/blob/main/min_compute.yml
+    mainnet_netuid: 10
+    maintaner_discord_ids:
+    - '230894955688624128'
+    - '774428716792545313'
+    owner_discord_id: '774428716792545313'
+    owner_nick: '@pgpsam'
+    testnet_netuid: 104
+    twitter: ''
+subvortex:
+    allowed_secrets:
+        - WANDB_API_KEY
+    bittensor_id: sn7
+    dumper_commands:
+    github_repo: https://github.com/eclipsevortex/SubVortex.git
+    hardware_description: https://github.com/eclipsevortex/SubVortex/blob/main/min_compute.yml
+    mainnet_netuid: 7
+    maintaner_discord_ids:
+        - '961038815286394910'
+        - '983286946619064320'
+    owner_discord_id: '983286946619064320'
+    owner_nick: '@eclipsevortex1'
+    testnet_netuid: 92
+    twitter: ''
+targon:
+    allowed_secrets:
+    bittensor_id: sn4
+    dumper_commands:
+    github_repo: https://github.com/manifold-inc/targon.git
+    hardware_description: https://github.com/manifold-inc/targon#compute-requirements
+    mainnet_netuid: 4
+    maintaner_discord_ids:
+    - '211001963557421056'
+    - '135226942906433536'
+    owner_discord_id: '135226942906433536'
+    owner_nick: '@0xcarro'
+    testnet_netuid: null
+    twitter: ''
+tbc:
+    allowed_secrets:
+        - WANDB_API_KEY
+        - GITHUB_TOKEN
+    bittensor_id: sn45
+    dumper_commands:
+    github_repo: https://github.com/brokespace/code.git
+    hardware_description: https://github.com/brokespace/code/blob/main/min_compute.yml
+    mainnet_netuid: 45
+    maintaner_discord_ids:
+    - '338456975920857088'
+    owner_discord_id: '1189700547159277708'
+    owner_nick: '@roguetensor '
+    testnet_netuid: 171
+    twitter: ''
+threegen:
+    allowed_secrets:
+    bittensor_id: sn17
+    dumper_commands:
+    github_repo: https://github.com/404-Repo/three-gen-subnet.git
+    hardware_description: https://github.com/404-Repo/three-gen-subnet?tab=readme-ov-file#hardware-requirements
+    mainnet_netuid: 17
+    maintaner_discord_ids:
+        - '964576823650422866'
+        - '486935511165042733'
+    owner_discord_id: '964576823650422866'
+    owner_nick: '@canigonow'
+    testnet_netuid: 89
+    twitter: ''
+vision:
+    allowed_secrets:
+        - STABILITY_API_KEY
+    bittensor_id: sn19
+    dumper_commands:
+    github_repo: https://github.com/namoray/vision.git
+    hardware_description: https://docs.taostats.io/docs/subnet-19-vision#Requirements
+    mainnet_netuid: 19
+    maintaner_discord_ids:
+        - '1158481828726968320'
+    owner_discord_id: '1158481828726968320'
+    owner_nick: '@namoray'
+    testnet_netuid: 51
+    twitter: ''
